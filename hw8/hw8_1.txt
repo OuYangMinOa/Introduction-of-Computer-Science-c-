@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+bool perfect_number(int num){
+    int sum = 0;
+    for (int i=1;i<num;i++){
+        if (num%i==0){
+            sum += i;
+        }
+    }
+    return sum==num;
+}
+
+int main(void){
+    int input;
+    cout<<"plz input a number ";
+    cin>>input;
+    if (perfect_number(input)){
+        cout<<"The number "<<input<<" is a perfect number.";
+    }else{
+        cout<<"The number  "<<input<<"  is not a perfect number.";
+    }
+}
