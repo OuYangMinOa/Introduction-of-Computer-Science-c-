@@ -1,3 +1,2 @@
 # Introduction to Computer Science
-## c++ programing
-The Question and the answer
+Questions and answers of Classroom Practice and Homework
