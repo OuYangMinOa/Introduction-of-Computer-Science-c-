@@ -1,0 +1,1 @@
+Output the Fibonacci series for i=0 to i=20 without using an array.

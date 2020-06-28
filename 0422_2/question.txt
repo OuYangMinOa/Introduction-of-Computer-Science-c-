@@ -1,0 +1,1 @@
+Use a nested loop to find all prime numbers from 2 to 1000.

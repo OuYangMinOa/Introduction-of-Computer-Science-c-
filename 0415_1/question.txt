@@ -1,0 +1,5 @@
+Find the root of the function f(x)=x-cos(x)
+
+Start with the interval [0,pi]
+
+The tolerance is 0.00001

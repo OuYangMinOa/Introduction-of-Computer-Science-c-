@@ -1,0 +1,9 @@
+Simulation of a 1D random walk
+
+Generate a sequence of 100 random numbers of -1 or 1 with equal probability. ±1 represents a step in ±𝑥 direction.
+
+Starting from 𝑥=0, find the final displacement. 
+
+Generate 1000 sequences of 100-step random walks  
+
+Find the average displace and standard deviation

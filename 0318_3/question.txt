@@ -1,0 +1,1 @@
+Ask the user to input a 5 digit binary numbers. Output the corresponding decimal number. 

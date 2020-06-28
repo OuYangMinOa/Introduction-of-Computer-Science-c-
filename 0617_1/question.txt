@@ -1,0 +1,11 @@
+Create a text file “tmp.txt” in the directory
+
+Put in 10 integer numbers in the file
+
+Write a C++ program to read in the numbers, assuming that you don’t know the number of data.
+
+For now, you don’t need to check if the array size is large enough to store all data. 
+
+Save the data in an array.
+
+Find the median of the data.

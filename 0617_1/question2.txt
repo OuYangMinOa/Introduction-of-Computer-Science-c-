@@ -1,0 +1,9 @@
+Put the matrix A in the file “a.txt”
+
+The first line of the file gives the numbers of rows and columns
+
+Read the 5 by 5 matrix from the file, “a.txt”
+
+Compute the 𝐴^4
+
+Output the result to the file “b.txt”`

@@ -1,0 +1,5 @@
+A= {{1, 2, 1},{0,1,0},{3,5,-1}}
+
+Compute the square of A. Output the product in a matrix form. 
+
+Compute A^5. Output the product in a matrix form. 

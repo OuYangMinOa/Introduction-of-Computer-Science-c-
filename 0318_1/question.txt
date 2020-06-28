@@ -1,0 +1,1 @@
+show n! for n=1..5

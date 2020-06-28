@@ -1,0 +1,13 @@
+Write a function to determine if the input integer n is a prime number and if it is an additive prime number
+
+Additive prime number: The sum of all digits is a prime number.
+
+For example, n=133, 1+3+3=7 is a prime number, so n is an additive prime number. 
+
+ 
+
+void function(int n, int& x, int&y)
+
+if n is a prime number, x=1, otherwise x=0. 
+
+if n is an additive prime number, y=1, otherwise y=0. 

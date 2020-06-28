@@ -1,0 +1,1 @@
+One has to follow exactly the same algorithm given in the lecture note to solve problem 1. 

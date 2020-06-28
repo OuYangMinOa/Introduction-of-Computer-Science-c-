@@ -1,0 +1,33 @@
+Find the root of f(x)=x-cos(x)
+
+You need to declare two functions. 
+
+double root( double a, double b, double c)
+
+double func( double x)
+
+
+
+int main()
+
+{
+
+a=0;
+
+b=𝜋;
+
+c=10^(−5);
+
+if(func(a)*func(b)<0)
+
+     cout << root(a,b,c) ;
+
+else
+
+    cout <<“ there is no root”;
+
+return 0;
+
+}
+
+ONE MUST GET THE EXACT RESULT 0.739084

@@ -1,0 +1,13 @@
+Driver
+
+Test the function by computing matrix multiplication AB
+
+Call the function to compute A^5
+
+Function
+
+Compute the multiplication of two matrices. 
+
+Return the result to the calling program with the matrix A unchanged.
+
+What should be included in the argument list?!
